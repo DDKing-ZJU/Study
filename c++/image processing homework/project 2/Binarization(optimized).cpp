@@ -4,7 +4,7 @@
 #include <cmath>
 
 #define WindowSize 16
-#define GlobalPercent 0.1
+#define GlobalPercent 0.15
 #define Step 1
 
 long long N1[256], N2[256];
